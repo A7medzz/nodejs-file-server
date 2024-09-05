@@ -1,0 +1,8 @@
+"when the input.txt was not created"
+2024-09-05T20:10:34.050Z [error]: Error reading file: D:\SIC\nodejs-file-server\task_2\input.txt. Error: ENOENT: no such file or directory, open 'D:\SIC\nodejs-file-server\task_2\input.txt'
+2024-09-05T20:10:34.052Z [error]: An error occurred during the file operations.
+"after input.txt is created but without data in it"
+2024-09-05T20:11:31.114Z [info]: Successfully read file: D:\SIC\nodejs-file-server\task_2\input.txt
+2024-09-05T20:11:31.118Z [info]: Successfully wrote to file: D:\SIC\nodejs-file-server\task_2\output.txt
+"test 3 with data in the file"2024-09-05T20:12:55.664Z [info]: Successfully read file: D:\SIC\nodejs-file-server\task_2\input.txt
+2024-09-05T20:12:55.668Z [info]: Successfully wrote to file: D:\SIC\nodejs-file-server\task_2\output.txt
